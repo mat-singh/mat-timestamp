@@ -1,2 +1,1 @@
-# mat-timestamp
-Timestamp API developed using glitch
+# Backend Challenges boilerplate - package.json
